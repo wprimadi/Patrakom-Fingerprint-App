@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your Company Name</Value>
+    </Setting>
+    <Setting Name="ApplicationName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Predefined Application Name</Value>
+    </Setting>
+    <Setting Name="GreetingsMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your Greetings Message</Value>
+    </Setting>
+    <Setting Name="ClientID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HardwareID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SerialNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DbIpAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">203.99.123.17</Value>
+    </Setting>
+    <Setting Name="DbUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P4tr4k0m*</Value>
+    </Setting>
+    <Setting Name="DbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">patrakom_erp</Value>
+    </Setting>
+    <Setting Name="FingerprintTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">erp_employee_fingerprint</Value>
+    </Setting>
+    <Setting Name="AttendanceTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">erp_employee_attendances_logs</Value>
+    </Setting>
+    <Setting Name="DeviceSerial" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VerificationCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActivationCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackgroundImage" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ButtonColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="ButtonColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">64, 0, 0</Value>
+    </Setting>
+    <Setting Name="ButtonGradientMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vertical</Value>
+    </Setting>
+    <Setting Name="ApplicationLogo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ApplicationLogoColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Transparent</Value>
+    </Setting>
+    <Setting Name="ApplicationLogoColor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Transparent</Value>
+    </Setting>
+    <Setting Name="ApplicationLogoGradientMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vertical</Value>
+    </Setting>
+    <Setting Name="HeaderColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 0, 0</Value>
+    </Setting>
+    <Setting Name="FontFace" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 8.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="FontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="FontFaceProgress" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 14.25pt</Value>
+    </Setting>
+    <Setting Name="FontFaceProgressColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="SecureKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P4tr4k0m</Value>
+    </Setting>
+    <Setting Name="EmployeeTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">erp_employee</Value>
+    </Setting>
+    <Setting Name="ShiftTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">erp_employee_shifts</Value>
+    </Setting>
+    <Setting Name="WebcamDriverIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="WebcamDriverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackgroundImageSlideShowFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackgroundImageType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="BackgroundImageSlideShowDuration" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="BackgroundMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stretch</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
